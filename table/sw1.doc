@@ -1,0 +1,27 @@
+{\rtf1\fs24
+\pard\qc
+Decriptive statistics\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2592\clbrdrt\brdrs\cellx3744\clbrdrt\brdrs\cellx5184\clbrdrt\brdrs\cellx6624\clbrdrt\brdrs\cellx7776\clbrdrt\brdrs\cellx9216\clbrdrt\brdrs\cellx10656
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\qc (5)\cell\qc (6)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2592\cellx3744\cellx5184\cellx6624\cellx7776\cellx9216\cellx10656
+\ql \cell\qc treat 0\cell\qc \cell\qc \cell\qc treat 1\cell\qc \cell\qc \cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2592\cellx3744\cellx5184\cellx6624\cellx7776\cellx9216\cellx10656
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2592\clbrdrb\brdrs\cellx3744\clbrdrb\brdrs\cellx5184\clbrdrb\brdrs\cellx6624\clbrdrb\brdrs\cellx7776\clbrdrb\brdrs\cellx9216\clbrdrb\brdrs\cellx10656
+\ql VARIABLES\cell\qc N\cell\qc mean\cell\qc sd\cell\qc N\cell\qc mean\cell\qc sd\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2592\cellx3744\cellx5184\cellx6624\cellx7776\cellx9216\cellx10656
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql netprofit\cell\qc 16,150\cell\qc 4.082e+08\cell\qc 1.985e+09\cell\qc 1,351\cell\qc 1.857e+09\cell\qc 8.877e+09\cell\row
+\ql asset_beginning\cell\qc 16,150\cell\qc 1.036e+10\cell\qc 3.514e+10\cell\qc 1,351\cell\qc 5.954e+10\cell\qc 2.242e+11\cell\row
+\ql asset_end\cell\qc 16,150\cell\qc 1.194e+10\cell\qc 4.091e+10\cell\qc 1,351\cell\qc 6.619e+10\cell\qc 2.395e+11\cell\row
+\ql equity\cell\qc 16,150\cell\qc 4.811e+09\cell\qc 1.409e+10\cell\qc 1,351\cell\qc 2.414e+10\cell\qc 1.122e+11\cell\row
+\ql liability\cell\qc 16,150\cell\qc 7.126e+09\cell\qc 2.948e+10\cell\qc 1,351\cell\qc 4.205e+10\cell\qc 1.405e+11\cell\row
+\ql current_asset\cell\qc 16,150\cell\qc 6.163e+09\cell\qc 2.692e+10\cell\qc 1,351\cell\qc 3.315e+10\cell\qc 1.077e+11\cell\row
+\ql current_liability\cell\qc 16,150\cell\qc 5.061e+09\cell\qc 2.210e+10\cell\qc 1,351\cell\qc 3.043e+10\cell\qc 1.014e+11\cell\row
+\ql performance\cell\qc 16,150\cell\qc 0.0345\cell\qc 0.963\cell\qc 1,351\cell\qc 0.0252\cell\qc 0.0703\cell\row
+\ql current_ratio\cell\qc 16,150\cell\qc 2.553\cell\qc 3.869\cell\qc 1,351\cell\qc 1.667\cell\qc 1.780\cell\row
+\ql ROA\cell\qc 16,150\cell\qc 0.0376\cell\qc 0.195\cell\qc 1,351\cell\qc 0.0294\cell\qc 0.0773\cell\row
+\ql ROE\cell\qc 16,150\cell\qc 0.0555\cell\qc 3.635\cell\qc 1,351\cell\qc -0.0171\cell\qc 1.597\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2592\clbrdrb\brdrs\cellx3744\clbrdrb\brdrs\cellx5184\clbrdrb\brdrs\cellx6624\clbrdrb\brdrs\cellx7776\clbrdrb\brdrs\cellx9216\clbrdrb\brdrs\cellx10656
+\ql Number of id\cell\qc 2,502\cell\qc 2,502\cell\qc 2,502\cell\qc 2,502\cell\qc 2,502\cell\qc 2,502\cell\row
+}
